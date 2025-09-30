@@ -8,7 +8,7 @@ Click on each Project to view details in the repository.
 
 ## Projects 
 
-###  🔗 [Project 1: Netflix Data Analysisf](https://github.com/beginharsh/Netflix-Data-Analysis)
+###  🔗 [Project 1: Netflix Data Analysis  ](https://github.com/beginharsh/Netflix-Data-Analysis)
 - Tools: Python(Pandas), Power BI(Visualization), Jupyter Notebook
 - Used Pandas Library to retreive the data, drop columns, replacing null values, and changing data format.
 - Created different KPIs and Measures in Power BI for Visualization.
@@ -16,8 +16,13 @@ Click on each Project to view details in the repository.
 - Analyzed Netflix Dataset to uncover insights about content trends, genre, addition of content, release year etc.
 
 
-### 2. AdventureWorks SQL + Power BI Project
-- Tools: SQL Server, Power BI
-- [🔗 View Repository](https://github.com/beginharsh/-AdventureWorks-Sales-Dashboard-)
+###  [🔗 Project 2: Adventureworks Sales Dashboard](https://github.com/beginharsh/-AdventureWorks-Sales-Dashboard-)
+- Tools: SQL, Power BI
+- Database: SQL server management studio(smss)
+- Dataset: AdventureWorksDW2022 (sample database from Microsoft).
+- Wrote SQL Queries to extract join and transform tables.
+- Built interactive dashboard showing various trends and patterns.
+- Analyzed trends, top customers, sales by month,product category, gender, top cities etc.
+
 
   
