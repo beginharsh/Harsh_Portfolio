@@ -6,11 +6,16 @@ Click on each Project to view details in the repository.
 
 ---
 
-## Porjects 
+## Projects 
 
 ###  1. Nteflix Data Analysis
 - Tools: Python(Pandas), Power BI(Visualization)
 - Description: Analyzed Netflix Dataset to uncover insights about content trends.
-- 🔗 [View Project](https://github.com/your-username/Netflix-Data-Analysis)
+- 🔗 [View Project](https://github.com/beginharsh/Netflix-Data-Analysis)
+
+
+### 2. AdventureWorks SQL + Power BI Project
+- Tools: SQL Server, Power BI
+- [🔗 View Repository](https://github.com/beginharsh/-AdventureWorks-Sales-Dashboard-)
 
   
