@@ -24,5 +24,12 @@ Click on each Project to view details in the repository.
 - Built interactive dashboard showing various trends and patterns.
 - Analyzed trends, top customers, sales by month,product category, gender, top cities etc.
 
+###  [🔗 Project 3: Hotel Analytics Dashboard ](https://github.com/beginharsh/Hotel-Performance-Analysis)
+- Tool & Formulaes: Microsoft Advanced Excel (Pivot Charts, Pivot Tables, Formulaes - SUMIF(), VLOOKUPS(), INDEX(), MATCH(), Date()).
+- Dataset: Took historical data of Hotel operations, sales, expenses, and Profit.
+- Implemented advanced formuales in order to create new calculated columns and KPIs - like ADR, REvPar, Average Daily Expense, CPOR, Net Profits, total, Sales, Total Expenses.
+- Created different charts like KPI cards, Column chart, Bar chart, Line charts, implemented dynamic slicers.
+- Analyzed the dataset to define the reason for low profit and low revenue in several months.
+
 
   
