@@ -26,10 +26,18 @@ Click on each Project to view details in the repository.
 
 ###  [🔗 Project 3: Hotel Analytics Dashboard ](https://github.com/beginharsh/Hotel-Performance-Analysis)
 - Tool & Formulaes: Microsoft Advanced Excel (Pivot Charts, Pivot Tables, Formulaes - SUMIF(), VLOOKUPS(), INDEX(), MATCH(), Date()).
-- Dataset: Took historical data of Hotel operations, sales, expenses, and Profit.
+- Dataset: Took historical Excel data of Hotel Business.
 - Implemented advanced formuales in order to create new calculated columns and KPIs - like ADR, REvPar, Average Daily Expense, CPOR, Net Profits, total, Sales, Total Expenses.
 - Created different charts like KPI cards, Column chart, Bar chart, Line charts, implemented dynamic slicers.
 - Analyzed the dataset to define the reason for low profit and low revenue in several months.
+
+
+###  [🔗 Project 4: Real Estate Data Analysis](https://github.com/beginharsh/Real-Estate-Data-Analysis)
+- Tools: Power Query, Power Query, DAX (Data Analysis Expression)
+- Dataset: Kaggle real estate dataset, 5000 rows.
+- Approach: Removed duplicates, handled missing values by the Mean and default values, created calculated columns, and created aggregated measures using DAX.
+- Data segmentation: created Area bins and Price bins to segment the data in groups.
+- Created dashboard to find property pricing in different location according to the different categories and measure like Flat type, Rera Approval, Area Range, and Price Range.
 
 
   
