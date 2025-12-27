@@ -8,12 +8,15 @@ Click on each Project to view details in the repository.
 
 ## Projects 
 
-###  🔗 [Project: Netflix Data Analysis  ](https://github.com/beginharsh/sql-data-warehouse-project)
+###  🔗 [Project: SQL DataWarehouse Project  ](https://github.com/beginharsh/sql-data-warehouse-project)
 - Tools: Microsoft SQL Server, SQL server Management System.
 - Datasource: Downloaded data from ERP and CRM Platforms as CSV files.
 - Created end-to-end datawarehouse using datawarehouse architecht and medallion method approach.
-- Built three layers of schema - Bronze for loading Raw Data from CSV files, Silver for Data Transformation,standardization, & enrichment, Gold layer for Business reporting and analytics.
-- Created DDL scripts and Stored procedure for database, warehouse layers and view procedure in gold for analysis.
+- Built three layers of schema -
+        1.Bronze for loading Raw Data from CSV files using DDL and created a stored procedure.
+        2. Silver for Data Transformation,standardization, & enrichment used functions like CASE WHEN, Lead() Lag(), CAST() TRIM() WINDOW()
+        3. Gold layer for Business reporting and analytics as view procdure only for clients and Analysts.
+
 
 ###  🔗 [Project: Netflix Data Analysis  ](https://github.com/beginharsh/Netflix-Data-Analysis)
 - Tools: Python(Pandas), Power BI(Visualization), Jupyter Notebook
