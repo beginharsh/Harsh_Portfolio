@@ -8,7 +8,14 @@ Click on each Project to view details in the repository.
 
 ## Projects 
 
-###  🔗 [Project 1: Netflix Data Analysis  ](https://github.com/beginharsh/Netflix-Data-Analysis)
+###  🔗 [Project: Netflix Data Analysis  ](https://github.com/beginharsh/sql-data-warehouse-project)
+- Tools: Microsoft SQL Server, SQL server Management System.
+- Datasource: Downloaded data from ERP and CRM Platforms as CSV files.
+- Created end-to-end datawarehouse using datawarehouse architecht and medallion method approach.
+- Built three layers of schema - Bronze for loading Raw Data from CSV files, Silver for Data Transformation,standardization, & enrichment, Gold layer for Business reporting and analytics.
+- Created DDL scripts and Stored procedure for database, warehouse layers and view procedure in gold for analysis.
+
+###  🔗 [Project: Netflix Data Analysis  ](https://github.com/beginharsh/Netflix-Data-Analysis)
 - Tools: Python(Pandas), Power BI(Visualization), Jupyter Notebook
 - Used Pandas Library to retreive the data, drop columns, replacing null values, and changing data format.
 - Created different KPIs and Measures in Power BI for Visualization.
@@ -16,7 +23,7 @@ Click on each Project to view details in the repository.
 - Analyzed Netflix Dataset to uncover insights about content trends, genre, addition of content, release year etc.
 
 
-###  [🔗 Project 2: Adventureworks Sales Dashboard](https://github.com/beginharsh/-AdventureWorks-Sales-Dashboard-)
+###  [🔗 Project: Adventureworks Sales Dashboard](https://github.com/beginharsh/-AdventureWorks-Sales-Dashboard-)
 - Tools: SQL, Power BI
 - Database: SQL server management studio(smss)
 - Dataset: AdventureWorksDW2022 (sample database from Microsoft).
@@ -24,7 +31,7 @@ Click on each Project to view details in the repository.
 - Built interactive dashboard showing various trends and patterns.
 - Analyzed trends, top customers, sales by month,product category, gender, top cities etc.
 
-###  [🔗 Project 3: Hotel Analytics Dashboard ](https://github.com/beginharsh/Hotel-Performance-Analysis)
+###  [🔗 Project: Hotel Analytics Dashboard ](https://github.com/beginharsh/Hotel-Performance-Analysis)
 - Tool & Formulaes: Microsoft Advanced Excel (Pivot Charts, Pivot Tables, Formulaes - SUMIF(), VLOOKUPS(), INDEX(), MATCH(), Date()).
 - Dataset: Took historical Excel data of Hotel Business.
 - Implemented advanced formuales in order to create new calculated columns and KPIs - like ADR, REvPar, Average Daily Expense, CPOR, Net Profits, total, Sales, Total Expenses.
@@ -32,7 +39,7 @@ Click on each Project to view details in the repository.
 - Analyzed the dataset to define the reason for low profit and low revenue in several months.
 
 
-###  [🔗 Project 4: Real Estate Data Analysis](https://github.com/beginharsh/Real-Estate-Data-Analysis)
+###  [🔗 Project: Real Estate Data Analysis](https://github.com/beginharsh/Real-Estate-Data-Analysis)
 - Tools: Power Query, Power Query, DAX (Data Analysis Expression)
 - Dataset: Kaggle real estate dataset, 5000 rows.
 - Approach: Removed duplicates, handled missing values by the Mean and default values, created calculated columns, and created aggregated measures using DAX.
