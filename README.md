@@ -12,10 +12,10 @@ Click on each Project to view details in the repository.
 - Tools: Microsoft SQL Server, SQL server Management System.
 - Datasource: Downloaded data from ERP and CRM Platforms as CSV files.
 - Created end-to-end datawarehouse using datawarehouse architecht and medallion method approach.
-- Built three layers of schema -
-        1.Bronze for loading Raw Data from CSV files using DDL and created a stored procedure.
-        2. Silver for Data Transformation,standardization, & enrichment used functions like CASE WHEN, Lead() Lag(), CAST() TRIM() WINDOW()
-        3. Gold layer for Business reporting and analytics as view procdure only for clients and Analysts.
+- Built three layers of schema Bronze, Silver, and Gold.
+- Bronze for loading Raw Data from CSV files using DDL and created a stored procedure.
+- Silver for Data Transformation,standardization, & enrichment used functions like CASE WHEN, WHERE, Group BY, CAST() TRIM() WINDOW() etc.
+- Gold layer for Business reporting and analytics as view procdure only for clients and Analysts.
 
 
 ###  🔗 [Project: Netflix Data Analysis  ](https://github.com/beginharsh/Netflix-Data-Analysis)
