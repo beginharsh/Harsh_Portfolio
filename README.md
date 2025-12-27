@@ -1,7 +1,7 @@
 # 🚀 Data Analytics Portofolio - Harsh Pal  
 
 welcome to my Project Portfolio 
-Here I showcase my Data Analysis Projects using **SQL, Python, Power BI**.
+Here I showcase my Data Analysis Projects using **SQL, Power BI,Advanced Excel, Python**.
 Click on each Project to view details in the repository.
 
 ---
